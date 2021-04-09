@@ -1,3 +1,4 @@
+//Tom er mega sejereje
 #include <stdio.h>
 int incomingByte = 0;
  char arr[] = {3,7,12};
